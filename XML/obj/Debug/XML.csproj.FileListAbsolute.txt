@@ -1,0 +1,9 @@
+C:\Users\jimmy\Desktop\XML\XML\bin\Debug\XML.exe.config
+C:\Users\jimmy\Desktop\XML\XML\bin\Debug\XML.exe
+C:\Users\jimmy\Desktop\XML\XML\bin\Debug\XML.pdb
+C:\Users\jimmy\Desktop\XML\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
+C:\Users\jimmy\Desktop\XML\XML\obj\Debug\XML.Form1.resources
+C:\Users\jimmy\Desktop\XML\XML\obj\Debug\XML.Properties.Resources.resources
+C:\Users\jimmy\Desktop\XML\XML\obj\Debug\XML.csproj.GenerateResource.Cache
+C:\Users\jimmy\Desktop\XML\XML\obj\Debug\XML.exe
+C:\Users\jimmy\Desktop\XML\XML\obj\Debug\XML.pdb
